@@ -1,0 +1,95 @@
+@charset "UTF-8";
+
+
+/* 共通部分 */
+body {
+  font-family: "Zen Kurenaido", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #D3F3FF;
+
+}
+.a{
+    text-align: center;
+}
+.header_site-title{
+    text-align: center;
+    padding-bottom: 32px;
+}
+.header{
+border-bottom: solid 1px;
+    padding: 32px;
+}
+.header__site-navi {
+    display: flex;
+    list-style-type: none;
+    justify-content: center ;
+    gap: 34px;
+    color: #000;
+}
+
+footer{
+    padding: 20px 0 32px;
+    text-align: center;
+    border-top: solid 1px;
+}
+/* home */
+div{
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+}
+img{
+    width: 100%;
+}
+.img-home{
+    padding-top: 60px;
+}
+.text_section-home{
+    padding: 64px 32px;
+
+}
+.text_section-title{
+    padding:  32px 0;
+    text-align: center;
+}
+
+/* gallery */
+.sakuhin-card{
+}
+.gallery-photo{
+    text-align: center;
+}
+.work-title{
+    text-align: center;
+    padding: 10px 0 30px;
+}
+
+/* profile */
+.profile-photo{
+padding-bottom: 60px;
+text-align: center;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+
+}
+.text_section-name{
+    padding-bottom: 60px;
+    text-align: center;
+}
+.text_section-profile{
+    padding: 64px 32px;
+}
+.honbun{
+    padding-bottom: 60px;
+    
+}
+/* yukinohi */
+.top-section{
+    padding: 60px;
+}
+/* strange */
+/* nichiyoubi */
+/* omoide */
+/* oozorahe */
